@@ -1,0 +1,12 @@
+Component		P/N
+
+H11L1M optocoupler	
+3.5mm Jack		PJ-3136-B 
+Arduino Nano
+9.8kΩ resistor
+300Ω resistor
+1kΩ resistor
+5volt Regulator		L7805ABV
+7 segment display	SLR0523DWC1BD 
+MAX7219CNG 
+Single row female headers
