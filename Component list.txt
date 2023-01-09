@@ -1,12 +1,13 @@
-Component		P/N
+Component with P/N
 
 H11L1M optocoupler	
-3.5mm Jack		PJ-3136-B 
+3.5mm Jack - PJ-3136-B 
 Arduino Nano
 9.8kΩ resistor
 300Ω resistor
 1kΩ resistor
-5volt Regulator		L7805ABV
-7 segment display	SLR0523DWC1BD 
+5volt Regulator - L7805ABV
+7 segment display - SLR0523DWC1BD 
 MAX7219CNG 
 Single row female headers
+Reflective material for windshield - https://www.amazon.ca/kesoto-Reflective-Projection-Protective-Transparent/dp/B07TBNL3TG?pd_rd_w=73NId&content-id=amzn1.sym.ccd66d6a-fd89-4716-b3af-012410ff4aa9&pf_rd_p=ccd66d6a-fd89-4716-b3af-012410ff4aa9&pf_rd_r=TS19XM5Z319D9EAC5TN8&pd_rd_wg=gHCqs&pd_rd_r=41fdcde7-2d4c-41ff-856e-86576ca241e3&pd_rd_i=B07TBNL3TG&psc=1&ref_=pd_bap_d_grid_rp_0_1_i
